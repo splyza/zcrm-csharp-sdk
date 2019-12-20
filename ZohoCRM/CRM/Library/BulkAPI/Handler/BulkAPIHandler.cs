@@ -318,7 +318,7 @@ namespace ZCRMSDK.CRM.Library.BulkAPI.Handler
                     return false;
                 }
             }
-            catch (Exception ex)
+            catch
             {
                 return false;
             }
